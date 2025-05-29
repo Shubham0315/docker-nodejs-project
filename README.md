@@ -25,4 +25,4 @@ Run :- **docker run -p 3000:3000 nodejs-app**
 
 5. To access application :- http://localhost:3000
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2e070f65-d9dd-418c-a515-e9bf2a3ea03a)
