@@ -23,7 +23,7 @@ Run :- **docker run -p 3000:3000 nodejs-app**
 
 ![image](https://github.com/user-attachments/assets/89145140-e1b0-4671-9219-b3e0199ac5cb)
 
-5. To access application :- http://localhost:3000
+5. To access application :- http://localhost:3001
 
 ![image](https://github.com/user-attachments/assets/36340357-576c-4aa6-8226-c1b624126d97)
 ![image](https://github.com/user-attachments/assets/9fb25470-ee34-4a82-ba9a-3df6d15069bf)
