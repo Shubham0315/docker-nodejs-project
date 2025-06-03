@@ -15,6 +15,7 @@
 4. Now build and run the container
 
 Build :- **docker build -t nodejs-app .**
+
 Run :- **docker run -p 3000:3000 nodejs-app**
 
 ![image](https://github.com/user-attachments/assets/0a139492-7608-44e4-9019-5333114efdfc)
